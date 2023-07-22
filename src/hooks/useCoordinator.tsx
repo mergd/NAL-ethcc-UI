@@ -1,7 +1,7 @@
 export const contracts = {
   controller: {
     address: {
-      sepolia: '0x25A1DF485cFBb93117f12fc673D87D1cddEb845a',
+      sepolia: '0x85544eD68a522a9CB4a3Ac41deE01e33A2C15727', // good
       zkSyncTestnet: '0xa0C21F3f1359f45890f918CFd340361CcD91627B',
       celoAlfajores: '0x94E9b8A9bf9C7d8e8A3AF85A387b1CbFf2a47884',
       gnosisChiado: '0x94E9b8A9bf9C7d8e8A3AF85A387b1CbFf2a47884',
