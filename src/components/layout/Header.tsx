@@ -31,7 +31,7 @@ export function Header(props: Props) {
             Docs
           </Heading>
         </LinkComponent>
-        <LinkComponent href="/docs">
+        <LinkComponent href="/vote">
           <Heading as="h2" size="sm">
             Vote
           </Heading>
